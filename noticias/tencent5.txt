@@ -1,0 +1,39 @@
+How net zero by 5 Chinese tech giants, which account for 2.5 times Hong Kong's annual emissions, can decarbonise 25% of Hang Seng Index
+
+Five Chinese information and communication technology (ICT) giants - Alibaba, Baidu, China Mobile, Tencent and Xiaomi - could eliminate 2.5 times Hong Kong's annual greenhouse gas emissions if they achieve net zero emissions, according to a study.
+
+There are tremendous opportunities to decarbonise the internet sector, which China considers crucial to drive economic growth, while delivering its 2060 net-zero commitment, analysts at the think tank China Water Risk said in a report focused on these five Hong Kong-listed firms. Billions of dollars of green finance can be tapped to help with this transition, they added.
+
+The combined scope 1, 2, and 3 emissions from the five companies amounted to 87 million tonnes in financial year 2021-22, 2.5 times Hong Kong's annual emission of 34.7 million tonnes in 2021, according to the non-profit organisation. Scope 1 covers emissions from sources owned or controlled by a company, while scope 2 and 3 are indirect emissions from purchased energy and those attributable to a company's supply chain.
+
+Do you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge, our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.
+
+"If all the five Hong Kong-listed ICT companies fully commit to net zero, we can decarbonise over a fifth of the Hang Seng Index," said Dharisha Mirando, CWR's finance lead and co-author of the report. "Now that's something the exchange and Hong Kong's financial industry should throw their weight behind."
+
+Emissions from Alibaba, Baidu, China Mobile, Tencent and Xiaomi, all of which are listed in Hong Kong, amounted to 87 million tonnes in financial year 2021-22. Photo: Xiaomei Chen alt=Emissions from Alibaba, Baidu, China Mobile, Tencent and Xiaomi, all of which are listed in Hong Kong, amounted to 87 million tonnes in financial year 2021-22. Photo: Xiaomei Chen>
+
+The five companies account for nearly 25 per cent of the Hang Seng Index's weighting, 36 per cent of its market cap and 28 per cent of the overall revenue of all listed Chinese ICT companies on the exchange, according to the report.
+
+The companies did not immediately respond to queries from the Post.
+
+Alibaba Group Holding, the Post's owner, Baidu and Tencent Holdings have previously announced their commitments to achieving carbon neutrality in their own operations and supply chain by 2030, the year China plans to hit peak emissions. Xiaomi said last month it would achieve carbon neutrality by 2040. However, China Mobile, the country's largest telecom service provider, has yet to announce its net-zero target.
+
+Only 12 million tonnes of the 87 million tonnes of emissions comprising all three scopes fall under the net zero pledge, but this could reach 21 million tonnes if Baidu and Alibaba included scope 3 emissions in their net zero commitments, according to CWR.
+
+The report also found that the five companies still lag their Silicon Valley counterparts Alphabet, Amazon, Apple, Meta and Netflix in the race to net zero.
+
+"For the five Hong Kong-listed ICT companies, the highest renewable energy sourcing rate is around 7 per cent, whereas Alphabet, Apple, Netflix and Meta have already achieved 100 per cent through a combination of on-site and off-site renewable production, green power purchase agreements and carbon credits," said Mirando.
+
+Alphabet and Apple have raised US$8 billion in green and sustainability bonds in the past few years and allocated over US$2 billion to renewables, while Alibaba, Baidu and Xiaomi have only allocated US$40 million to renewables out of the US$2 billion of green bonds raised, according to the report.
+
+"There's no reason why the five Hong Kong-listed ICTs cannot catch up with their Silicon Valley counterparts, because if they tackled scope 2 emissions from electricity use, this can negate up to 41 million tonnes of carbon dioxide equivalent - the annual emissions of Switzerland," said Mirando.
+
+The ICT sector is often considered an "enabler" for efficient and effective climate actions, but it is also extremely energy and water intensive. Globally, the sector accounted for 2 to 4 per cent of emissions annually in 2020, but that could rise to 23 per cent by 2030, according to CWR.
+
+In China, data centre emissions grew by 41 per cent in just one year to 135 million tonnes in 2021, according to CWR. If left unchecked, carbon emissions from data centres in China are projected to balloon to 340 million tonnes by 2030, comparable to the energy-related carbon emissions of the United Kingdom today, the report said.
+
+The massive carbon footprint of the ICT sector has come under increasing scrutiny from Beijing, with the government listing the sector as a key decarbonisation target alongside traditional heavy-emitting industries such as steel and cement last year, after outlining a peak-emissions strategy for data centres and 5G networks in 2021.
+
+The report urged the ICT companies to speed up their race to net zero, and Hong Kong to innovate financing solutions to accelerate the transition.
+
+"More green bonds and higher allocations to renewables will fast-track scope 2 emission cuts," said Mirando. "Banks, especially those which have pledged net zero, should not miss out on supporting these large ICT players with their net zero journey."

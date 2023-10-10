@@ -1,0 +1,26 @@
+Noticia 1:
+-0.12
+Noticia 2:
+0.03
+Noticia 3:
+-0.01
+Noticia 4:
+0.0191
+Noticia 5:
+-0.05
+Noticia 6:
+0.2796
+Noticia 7:
+-0.05
+Noticia 8:
+-0.01
+Noticia 9:
+-0.047
+Noticia 10:
+-0.3
+Noticia 11:
+-0.12
+Noticia 12:
+0.42
+Noticia 13:
+0.12

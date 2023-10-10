@@ -1,0 +1,14 @@
+Netlix:
+GPT: 0.31
+PLN: 0.42
+PRE-PROCESSED PLN: 0.38
+
+Adobe:
+GPT: -0.50
+PLN: -0.94
+PRE-PROCESSED PLN: -0.30
+
+Tencent:
+GPT: -0.09
+PLN: -0.71
+PRE-PROCESSE PLN: -0.58

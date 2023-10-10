@@ -1,0 +1,9 @@
+Tencent-backed AI chip startup Enflame raises $274 million from state-linked investors, others
+
+(Reuters) - China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 2 billion yuan ($273.68 million) from investors including funds linked to a government authority in Shanghai.
+
+The deal came as the development of generative AI, boosted by the success of OpenAI's ChatGPT, raises investor interest in companies working on AI-related infrastructure such as AI chips.
+
+Enflame said the latest fundraising was co-led by investors including a few funds backed by Shanghai International Group, which is under the control of the state asset regulating authority in the municipality of Shanghai.
+
+Tencent, which has cooperated with Enflame in developing an AI chip named Zixiao and contributed to the startup's earlier fundraising, also participated in the latest investment round, according to a statement by Enflame.
